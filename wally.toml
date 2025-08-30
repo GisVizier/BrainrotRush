@@ -1,0 +1,12 @@
+[package]
+name = "snipe/brainrush"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+cmdr = "evaera/cmdr@1.12.0"
+Faye = "prophetouw/faye@1.4.16"
+SimpleSignal = "prophetouw/simplesignal@1.1.2"
+CleanIt = "prophetouw/cleanit@2.0.4"
+BridgeNet2 = "ffrostflame/bridgenet2@1.0.0"

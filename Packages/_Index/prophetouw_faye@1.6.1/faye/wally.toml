@@ -1,0 +1,8 @@
+[package]
+name = "prophetouw/faye"
+version = "1.6.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+SimpleSignal = "prophetouw/simplesignal@1.1.2"
